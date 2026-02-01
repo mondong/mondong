@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋
+공부 중인 개발자입니다.
+
+## 📚 공부 중
+- 정보처리기사
+- SQLD 준비 예정
+- C# 공부 예정
+
+## 🎯 목표
+- 개발 포트폴리오 만들기
 
 <!--
 **mondong/mondong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
